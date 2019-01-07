@@ -11,7 +11,7 @@ function popUp() {
         }
 }
 
-setTimeout(popUp, 300000);
+setTimeout(popUp, 10000);
 
 
 document.querySelector('button').addEventListener('click', function() {
